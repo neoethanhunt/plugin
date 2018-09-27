@@ -2,13 +2,8 @@
 /*
 Plugin Name: courselike
 
-
-
 */
 
-/***************************
-* constants
-***************************/
 
 if(!defined('LI_BASE_DIR')) {
 	define('LI_BASE_DIR', dirname(__FILE__));
